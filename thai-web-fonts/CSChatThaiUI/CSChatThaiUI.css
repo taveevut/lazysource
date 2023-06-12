@@ -1,0 +1,35 @@
+@font-face {
+  font-family: 'CS ChatThaiUI';
+  src: url('CSChatThaiUI-Light.eot');
+  src: url('CSChatThaiUI-Light.eot?#iefix') format('embedded-opentype'),
+    url('CSChatThaiUI-Light.woff2') format('woff2'),
+    url('CSChatThaiUI-Light.woff') format('woff'),
+    url('CSChatThaiUI-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CS ChatThaiUI';
+  src: url('CSChatThaiUI-Bold.eot');
+  src: url('CSChatThaiUI-Bold.eot?#iefix') format('embedded-opentype'),
+    url('CSChatThaiUI-Bold.woff2') format('woff2'),
+    url('CSChatThaiUI-Bold.woff') format('woff'),
+    url('CSChatThaiUI-Bold.ttf') format('truetype');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'CS ChatThaiUI';
+  src: url('CSChatThaiUI.eot');
+  src: url('CSChatThaiUI.eot?#iefix') format('embedded-opentype'),
+    url('CSChatThaiUI.woff2') format('woff2'),
+    url('CSChatThaiUI.woff') format('woff'),
+    url('CSChatThaiUI.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
