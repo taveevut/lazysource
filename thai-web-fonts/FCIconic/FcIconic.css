@@ -1,0 +1,96 @@
+@font-face {
+    font-family: 'FC Iconic';
+    src: url('FCIconicBold.eot');
+    src: url('FCIconicBold.eot?#iefix') format('embedded-opentype'),
+        url('FCIconicBold.woff2') format('woff2'),
+        url('FCIconicBold.woff') format('woff'),
+        url('FCIconicBold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FC Iconic';
+    src: url('FCIconicRegular.eot');
+    src: url('FCIconicRegular.eot?#iefix') format('embedded-opentype'),
+        url('FCIconicRegular.woff2') format('woff2'),
+        url('FCIconicRegular.woff') format('woff'),
+        url('FCIconicRegular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FC Iconic';
+    src: url('FCIconicItalic.eot');
+    src: url('FCIconicItalic.eot?#iefix') format('embedded-opentype'),
+        url('FCIconicItalic.woff2') format('woff2'),
+        url('FCIconicItalic.woff') format('woff'),
+        url('FCIconicItalic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FC Iconic';
+    src: url('FCIconicBoldItalic.eot');
+    src: url('FCIconicBoldItalic.eot?#iefix') format('embedded-opentype'),
+        url('FCIconicBoldItalic.woff2') format('woff2'),
+        url('FCIconicBoldItalic.woff') format('woff'),
+        url('FCIconicBoldItalic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FC Iconic';
+    src: url('FCIconicItalic_1.eot');
+    src: url('FCIconicItalic_1.eot?#iefix') format('embedded-opentype'),
+        url('FCIconicItalic_1.woff2') format('woff2'),
+        url('FCIconicItalic_1.woff') format('woff'),
+        url('FCIconicItalic_1.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FC Iconic';
+    src: url('FCIconicRegular_1.eot');
+    src: url('FCIconicRegular_1.eot?#iefix') format('embedded-opentype'),
+        url('FCIconicRegular_1.woff2') format('woff2'),
+        url('FCIconicRegular_1.woff') format('woff'),
+        url('FCIconicRegular_1.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FC Iconic';
+    src: url('FCIconicBoldItalic_1.eot');
+    src: url('FCIconicBoldItalic_1.eot?#iefix') format('embedded-opentype'),
+        url('FCIconicBoldItalic_1.woff2') format('woff2'),
+        url('FCIconicBoldItalic_1.woff') format('woff'),
+        url('FCIconicBoldItalic_1.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'FC Iconic';
+    src: url('FCIconicBold_1.eot');
+    src: url('FCIconicBold_1.eot?#iefix') format('embedded-opentype'),
+        url('FCIconicBold_1.woff2') format('woff2'),
+        url('FCIconicBold_1.woff') format('woff'),
+        url('FCIconicBold_1.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
