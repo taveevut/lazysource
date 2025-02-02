@@ -1,0 +1,36 @@
+@font-face {
+   font-family: 'Iconic';
+   src: url('FCIconic-Bold.eot');
+   src: url('FCIconic-Bold.eot?#iefix') format('embedded-opentype'),
+   url('FCIconic-Bold.woff2') format('woff2'),
+   url('FCIconic-Bold.woff') format('woff'),
+   url('FCIconic-Bold.ttf') format('truetype');
+   font-weight: bold;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: 'Iconic';
+   src: url('FCIconic-Medium.eot');
+   src: url('FCIconic-Medium.eot?#iefix') format('embedded-opentype'),
+   url('FCIconic-Medium.woff2') format('woff2'),
+   url('FCIconic-Medium.woff') format('woff'),
+   url('FCIconic-Medium.ttf') format('truetype');
+   font-weight: 500;
+   font-style: normal;
+   font-display: swap;
+}
+
+@font-face {
+   font-family: 'Iconic';
+   src: url('FCIconic-Regular.eot');
+   src: url('FCIconic-Regular.eot?#iefix') format('embedded-opentype'),
+   url('FCIconic-Regular.woff2') format('woff2'),
+   url('FCIconic-Regular.woff') format('woff'),
+   url('FCIconic-Regular.ttf') format('truetype');
+   font-weight: 400;
+   font-style: normal;
+   font-display: swap;
+}
+
