@@ -1,0 +1,33 @@
+/* Regular */
+@font-face {
+  font-family: 'SF Mono';
+  src: url('SFMono-Regular.otf') format('opentype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Semibold */
+@font-face {
+  font-family: 'SF Mono';
+  src: url('SFMono-Semibold.otf') format('opentype');
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Italic variants (ถ้ามี) */
+@font-face {
+  font-family: 'SF Mono';
+  src: url('SFMono-RegularItalic.otf') format('opentype');
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+@font-face {
+  font-family: 'SF Mono';
+  src: url('SFMono-SemiboldItalic.otf') format('opentype');
+  font-weight: 600;
+  font-style: italic;
+  font-display: swap;
+}
